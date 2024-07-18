@@ -1,1 +1,1 @@
-# Stock-Gold-Forecasting
+# ML Project
